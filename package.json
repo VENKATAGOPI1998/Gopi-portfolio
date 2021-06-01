@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HemanthChirikonda/portfolio.git"
+    "url": "https://github.com/VENKATAGOPI1998/Gopi-portfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HemanthChirikonda/portfolio/issues"
+    "url": "https://github.com/VENKATAGOPI1998/Gopi-portfolio/issues"
   },
-  "homepage": "https://github.com/HemanthChirikonda/portfolio#readme",
+  "homepage": "https://github.com/VENKATAGOPI1998/Gopi-portfolio",
   "dependencies": {
     "bootstrap-icons": "^1.0.0",
     "webpack": "^4.44.1",
